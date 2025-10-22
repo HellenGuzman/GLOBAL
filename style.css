@@ -1,0 +1,13 @@
+.contenedor {
+  display:table
+}
+    
+.txt-1 {
+    margin: 15px;
+    display: inline-block;
+
+}
+
+  .txt-2 {
+    display: inline-block; 
+  }

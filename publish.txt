@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Rosalia</title>
+    <link rel="icon" type="publishIcon.png" href="publishIcon.png">
+</head>
+<body>
+    <style>
+        body {
+background-color: rgba(161, 129, 235, 0.925);
+        }
+    </style>
+    <main>
+        <marquee><h1> Global Publicity </h1></marquee>
+
+<h3>MISIÓN DE NUESTRA EMPRESA:</h3>
+<p> Ofrecer páginas de publicidad de calidad,<br/> 
+    utilizando las mejores herramientas de la programación,<br/>
+    ofreciendo a nuestros clientes el mejor marketing en el mercado,<br/> 
+    que sea tendencia y relevante para el público en redes sociales.</p><br/>
+<h3>VISIÓN DE NUESTRA EMPRESA:</h3>
+<P>Aspiramos a ser un negocio sostenible,<br/>
+ser líder de las marcas que ofrecen marketing digital,<br/>
+hacer relevante a nuestros clientes,<br/> 
+servirlos mejor para ser relevantes y de confianza en sus empresas.</P><br/>
+
+<img src="Global publicity.png" height="10%" width="40%" alt="logo de la empresa">
+.bloque-derecha { 
+    position: fixed;
+    right: 20px;
+top: 100px;
+
+}
+
+
+
+</body>
+</html>
